@@ -1,0 +1,31 @@
+  .itemA {
+    background-color: #ffa500;
+    width: 500px;
+    height: 500px;
+  }
+
+  .itemB {
+    background-color: #8edf8e;
+    width: 50%;
+    height: 50%;
+  }
+
+  .itemC {
+    color:white;
+    background-color: #ff0000;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+  }
+
+  .itemD {
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(173, 216, 230);
+  }
+
+  .itemE {
+    width: 75vh;
+    height: 50%;
+    background-color: rgb(255, 0, 0);
+  }
